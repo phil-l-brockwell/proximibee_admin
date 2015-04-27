@@ -3,8 +3,6 @@
 
 Our final team project at Makers Academy was to create a Beacon network for personalised shopping. This is the repo for the Proximibee Admin system.
 
-=== {Proximibee Demo}[https://youtu.be/5xSJhFoEBcs]
-
 === {Proximibee Admin System}[https://arcane-citadel-3693.herokuapp.com]
 
 === What problem was being solved?
